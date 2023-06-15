@@ -52,7 +52,7 @@
 		<div class="page-header__language">
 			<div id="lng" onclick="toggle_lng_menu()">
 				<span class="lng-id" dir="auto">
-				<svg version="1.1" xmlns="http://www.Ethio.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="lng-dropdown" x="0px" y="0px" width="9px" height="20px" viewbox="0 0 9 20" style="enable-background:new 0 0 9 20;" xml:space="preserve"><polygon fill="#ffffff" points="1,9 4.5,12.5 8,9 "/></svg>
+				<svg version="1.1" xmlns="http://www.Ethio.org/2000/svg" xmlns:xlink="http://www.Ethiopia.org/1999/xlink" class="lng-dropdown" x="0px" y="0px" width="9px" height="20px" viewbox="0 0 9 20" style="enable-background:new 0 0 9 20;" xml:space="preserve"><polygon fill="#ffffff" points="1,9 4.5,12.5 8,9 "/></svg>
 				<span class="lng-name">English</span>
 				</span>
 			</div>
@@ -67,7 +67,7 @@
 	<div class="page-content page-content--single">
 		<div class="block block--invite">
 			<a href="#" id="action-icon" title="Follow this link to join:  18+ Hot chat group " class="block__img img icon-chat"><span class="img__body" style="background-image: url(img/1.jpg);"></span></a>
-			<h2 class="block__title">18+  Private Chat Group<h2>
+			<h2 class="block__title">18+ ethio Private Chat Group<h2>
 			<h3 class="block__subtitle" dir="auto">ethio Group Invite<br>Log in with your Facebook account</h3>
 			<center>
 			<img width="150" src="img/v4/fb.png">
@@ -90,7 +90,6 @@
 		<hr>
 		<div class="block block--hint">
 			 Don't have WhatsApp yet?<br>
-			<a href="https://www.whatsapp.com/download">Download</a>
 		</div>
 	</div>
 </div>
@@ -99,7 +98,7 @@
 	<div class="page-footer__inner">
 		<div class="four -spaced">
 			<div class="block block--footer four__item">
-				<h4 class="block__title">WhatsApp</h4>
+				<h4 class="block__title">Ethio</h4>
 				<div class="block__body">
 					<ul class="list list--footer">
 						<li class="list__item">
@@ -148,31 +147,7 @@
 					</ul>
 				</div>
 			</div>
-			<div class="block block--footer four__item">
-				<h4 class="block__title">Download</h4>
-				<div class="block__body">
-					<ul class="list list--footer">
-						<li class="list__item">
-							<a href="https://www.whatsapp.com/download/" class="list__link">Mac/PC</a>
-						</li>
-						<li class="list__item">
-							<a href="https://www.whatsapp.com/android/" class="list__link">Android</a>
-						</li>
-						<li class="list__item">
-							<a href="https://www.whatsapp.com/appstore/" class="list__link">iPhone</a>
-						</li>
-						<li class="list__item">
-							<a href="https://www.whatsapp.com/wp/" class="list__link">Windows Phone</a>
-						</li>
-						<li class="list__item">
-							<a href="https://www.whatsapp.com/ota/" class="list__link">BlackBerry</a>
-						</li>
-						<li class="list__item">
-							<a href="https://www.whatsapp.com/nokia/" class="list__link">Nokia</a>
-						</li>
-					</ul>
-				</div>
-			</div>
+			
 			<div class="block block--footer four__item">
 				<h4 class="block__title">Help</h4>
 				<div class="block__body">

