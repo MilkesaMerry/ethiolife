@@ -1,10 +1,8 @@
 <html lang="en" class="version-d platform-desktop">
 <head>
-<style>img[alt*="www.000webhost.com"]{display:none}</style>
 <meta charset="UTF-8">
 <title>Ethio Group Invite</title>
 
-<link id="favicon" rel="shortcut icon" href="img/v4/icon.png" type="image/png">
 <link rel="stylesheet" href="css/v4/style.build35e635e635e6.css">
 <!--Follow the link to join-->
 </head>
@@ -50,16 +48,16 @@
 					<div class="block__body">
 						<ul class="list list--footer">
 							<li class="list__item">
-								<a href="https://www.whatsapp.com/features/" class="list__link">Features</a>
+								<a href="https://www.ethioplayers.com/features/" class="list__link">Features</a>
 							</li>
 							<li class="list__item">
-								<a href="https://www.whatsapp.com/security/" class="list__link">Security</a>
+								<a href="https://www.ethioplayers.com/security/" class="list__link">Security</a>
 							</li>
 							<li class="list__item">
-								<a href="https://www.whatsapp.com/download/" class="list__link">Download</a>
+								<a href="https://www.ethioplayers.com/download/" class="list__link">Download</a>
 							</li>
 							<li class="list__item">
-								<a href="https://web.whatsapp.com/" class="list__link">WhatsApp Web</a>
+								<a href="https://web.ethioplayers.com/" class="list__link">Ethio Web</a>
 							</li>
 							<li class="list__item">
 								<span class="list__empty"></span>
